@@ -1,6 +1,6 @@
 # Youth and Gender Global Illiteracy
 
-This project analyzes global youth illiteracy across genders and regions. Data courtesy of The World Bank.
+This project analyzes global youth illiteracy across genders, regions, and countries. Data courtesy of The World Bank.
 
 It primarily uses two programs:
 
@@ -37,6 +37,17 @@ Male | -10.79
 Female | -33.19
 
 4. Not accounting for population growth, how has the size of illiterate populations changed over time by country income bracket?
+
+Indicator Name | Income Group | change_over_time
+--- | --- | ---
+Female | High income | -45.37
+Male | High income | -34.72
+Female | Low income | 28.65
+Male | Low income | 55.15
+Female | Lower middle income | -26.36
+Male | Lower middle income | 9.37
+Female | Upper middle income | -48.85
+Male | Upper middle income | -21.55
 
 
 
