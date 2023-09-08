@@ -4,8 +4,8 @@ Shray Dewan
 2023-09-03
 
 ``` r
-gen <- read.csv("~/Documents/Documents/graphs for good/genderineq/youth_illiteracy (2).csv")
-coun <- read.csv("~/Documents/Documents/graphs for good/genderineq/Gender_Stats_CSV/Gender_StatsCountry.csv")
+gen <- read.csv("~/Documents/GitHub/Youth-Gender-Illiteracy/Data Files/youth_illiteracy (2).csv")
+coun <- read.csv("~/Documents/GitHub/Youth-Gender-Illiteracy/Data Files/Gender_StatsCountry.csv")
 ```
 
 ``` r
