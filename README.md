@@ -52,9 +52,7 @@ Male | Upper middle income | -21.55
 
 **R**
 
-![alt text](https://github.com/shraydewan/Youth-Gender-Illiteracy/main/Figures/choropleth1-1.png?raw=true)
-
-
+![alt text](https://github.com/shraydewan/Youth-Gender-Illiteracy/blob/main/Figures/choropleth1-1.png.jpg?raw=true)
 
 
 
