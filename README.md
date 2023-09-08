@@ -8,7 +8,7 @@ It primarily uses two programs:
 2. R - Data visualization
 
 
-**SQL**
+## SQL
 
 1. What are the five countries with the highest female:male youth illiteracy rate?
 
@@ -50,11 +50,18 @@ Female | Upper middle income | -48.85
 Male | Upper middle income | -21.55
 
 
-**R**
+## R
+
+1. How much of the illiterate youth population in each country is female?
 
 ![alt text](https://github.com/shraydewan/Youth-Gender-Illiteracy/blob/main/Figures/choropleth1-1.png)
 
+2. Which countries have more illiterate young women compared to men? Illiterate young men to women?
 
+![alt text](https://github.com/shraydewan/Youth-Gender-Illiteracy/blob/main/Figures/choropleth2-1.png)
 
+3. Not accounting for population growth, how has the total illiterate population of the world changed over time?
+
+![alt text](https://github.com/shraydewan/Youth-Gender-Illiteracy/blob/main/Figures/streamgraph-1.png)
 
 
