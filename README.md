@@ -29,16 +29,16 @@ Lower middle income | 49.72
 High income | 44.79
 Upper middle income | 43.37
 
-3. Not accounting for population growth, how has the size of illiterate populations changed over time?
+3. Not accounting for population growth, how has the size of illiterate populations changed between 1995 and now?
 
-Indicator Name | change_over_time
+Indicator Name | change_over_time (%)
 --- | ---
 Male | -10.79
 Female | -33.19
 
-4. Not accounting for population growth, how has the size of illiterate populations changed over time by country income bracket?
+4. Not accounting for population growth, how has the size of illiterate populations changed between 1995 and now (by country income bracket)?
 
-Indicator Name | Income Group | change_over_time
+Indicator Name | Income Group | change_over_time (%)
 --- | --- | ---
 Female | High income | -45.37
 Male | High income | -34.72
