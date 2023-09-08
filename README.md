@@ -1,6 +1,6 @@
 # Youth and Gender Global Illiteracy
 
-This project analyzes global youth illiteracy across genders, regions, and countries. Data courtesy of The World Bank.
+This project analyzes global youth illiteracy across genders (binary representation), regions, and countries. Data courtesy of The World Bank.
 
 It primarily uses two programs:
 
