@@ -50,6 +50,11 @@ Female | Upper middle income | -48.85
 Male | Upper middle income | -21.55
 
 
+**R**
+
+![alt text](https://github.com/shraydewan/Youth-Gender-Illiteracy/blob/main/image.jpg?raw=true)
+
+
 
 
 
